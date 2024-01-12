@@ -77,3 +77,13 @@ let story = `There once was a man named ${newName}. He went to ${place} to do so
 console.log(story);
 
 //=============Question 10=============
+//In your own words, explain the key differences between HTML, CSS, and JavaScript. Use plain language and provide a brief description of each.
+/*
+All three languages are very different but all work together well. Starting with HTML, 
+it is the back bone for websites and offers you the ability to create the layout of the page.
+CSS takes that backbone and builds on it by allowing you to customize the way your HTML file looks. 
+It takes it away from the old website look and allows the user to change the look to be their own.
+JavaScript is different as it has the ability to not only add things like interactivity to your page 
+but it also has the ability to play a role in manipulating your website with the DOM, and can be used 
+in the backend of things. JS is the most versatile of the bunch but all work best together.
+*/
